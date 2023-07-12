@@ -23,6 +23,6 @@ The project is organized as follows:
 - JavaWebServer/ contains the source code of the Java Web Server
 More information can be found in the documentation file attached.
 
-## Execution Proof
+## Execution Proof 
 We've proven that our algorithm is able to train in a distributed and privacy-oriented fashion the K-Means algorithm, reaching the same result that it could reach if it was centralized.<br>
 <img width="687" alt="image" src="https://github.com/terranovaa/HorizontalFederatedLearning/assets/61695945/5d4358c0-8b00-44f7-b8f3-cfba14996f0a">
